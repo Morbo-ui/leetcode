@@ -1,2 +1,2 @@
 # leetcode
-leetcode solutions using seanprashad.com/leetcode-patterns/
+leetcode solutions using https://seanprashad.com/leetcode-patterns/
